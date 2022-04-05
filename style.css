@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.box {
+    height: 250px;
+    /* min-height: 250px; */
+    width: 250px;
+    background: rgb(244, 23, 23);
+    /* overflow-y: scroll; */
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 20px;
+    float: left;
+}
+p {
+    float: left;
+    height: 250px;
+    width: 250px;
+}
+.clear {
+    clear: both;
+}
